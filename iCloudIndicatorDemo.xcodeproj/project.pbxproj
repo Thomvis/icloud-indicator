@@ -28,7 +28,6 @@
 		E9671EC8152E9C2800789CBF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E9671EC7152E9C2800789CBF /* AppDelegate.m */; };
 		E9671ECB152E9C2800789CBF /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9671ECA152E9C2800789CBF /* RootViewController.m */; };
 		E9671ECE152E9C2800789CBF /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = E9671ECD152E9C2800789CBF /* HelloWorldLayer.m */; };
-		E982F6BC153534420028E1EB /* LICENSE.iCloudIndicatorDemo in Resources */ = {isa = PBXBuildFile; fileRef = E982F6BB153534420028E1EB /* LICENSE.iCloudIndicatorDemo */; };
 		E982F76E1535370C0028E1EB /* CCAction.m in Sources */ = {isa = PBXBuildFile; fileRef = E982F6C51535370C0028E1EB /* CCAction.m */; };
 		E982F76F1535370C0028E1EB /* CCActionCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = E982F6C71535370C0028E1EB /* CCActionCamera.m */; };
 		E982F7701535370C0028E1EB /* CCActionEase.m in Sources */ = {isa = PBXBuildFile; fileRef = E982F6C91535370C0028E1EB /* CCActionEase.m */; };
@@ -154,7 +153,6 @@
 		E9671ECC152E9C2800789CBF /* HelloWorldLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldLayer.h; sourceTree = "<group>"; };
 		E9671ECD152E9C2800789CBF /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		E9671ECF152E9C2800789CBF /* GameConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameConfig.h; sourceTree = "<group>"; };
-		E982F6BB153534420028E1EB /* LICENSE.iCloudIndicatorDemo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.iCloudIndicatorDemo; sourceTree = "<group>"; };
 		E982F6C41535370C0028E1EB /* CCAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCAction.h; sourceTree = "<group>"; };
 		E982F6C51535370C0028E1EB /* CCAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCAction.m; sourceTree = "<group>"; };
 		E982F6C61535370C0028E1EB /* CCActionCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCActionCamera.h; sourceTree = "<group>"; };
@@ -373,7 +371,6 @@
 			isa = PBXGroup;
 			children = (
 				E982F6BE153536F80028E1EB /* Libraries */,
-				E982F6BB153534420028E1EB /* LICENSE.iCloudIndicatorDemo */,
 				E9671D71152E9C2600789CBF /* iCloudIndicatorDemo */,
 				E9671D60152E9C2600789CBF /* Frameworks */,
 				E9671D5E152E9C2600789CBF /* Products */,
@@ -771,7 +768,6 @@
 				E9AE0FED152E9E8200EB6542 /* icloud-play-hd.png in Resources */,
 				E9AE0FEE152E9E8200EB6542 /* icloud-play.png in Resources */,
 				E9AE0FEF152E9E8200EB6542 /* icloud.png in Resources */,
-				E982F6BC153534420028E1EB /* LICENSE.iCloudIndicatorDemo in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
